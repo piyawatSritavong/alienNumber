@@ -9,12 +9,12 @@ An interactive web application built with React and TypeScript to solve the "Ali
 
 ## ✨ Features
 
-✅ **Number Conversion:** Accurately converts alien number strings into integers.
-✅ **Subtraction Rule Handling:** Correctly processes special subtraction rules (e.g., AB = 4, CR = 900). 
-✅ **Randomizer:** A "Randomize" button to generate test inputs easily. 
-✅ **Bilingual Support (i18n):** Fully functional in both English and Thai with a language switcher.
-✅ **Clean UI:** A clean, responsive user interface built with Tailwind CSS. 
-✅ **Modern Tech Stack:** Built with Vite for a fast development experience.
+* ✅ **Number Conversion:** Accurately converts alien number strings into integers.
+* ✅ **Subtraction Rule Handling:** Correctly processes special subtraction rules (e.g., AB = 4, CR = 900). 
+* ✅ **Randomizer:** A "Randomize" button to generate test inputs easily. 
+* ✅ **Bilingual Support (i18n):** Fully functional in both English and Thai with a language switcher.
+* ✅ **Clean UI:** A clean, responsive user interface built with Tailwind CSS. 
+* ✅ **Modern Tech Stack:** Built with Vite for a fast development experience.
 
 ## 📝 The Challenge
 
